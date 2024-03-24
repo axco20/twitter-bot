@@ -13,7 +13,7 @@ Python 3.x,
 Tweepy,
 BeautifulSoup,
 Pandas,
-Requests,
+Requests.
 
 Features
 Scrapes inspirational quotes from Goodreads.
